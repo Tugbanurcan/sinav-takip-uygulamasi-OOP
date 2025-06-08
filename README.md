@@ -10,15 +10,21 @@ Windows Forms
 SQL Server
 
 
+
+
 📁 Proje Özellikleri Öğretmen ve öğrenci kayıt işlemleri
 
 Öğretmen girişi sonrası, öğrencilere ait notları görme
 
 Öğretmen :Not ekleme, güncelleme, silme,Vize Final oranı ve geçme kalma notunu ayarlama
 
-Kullanıcı dostu arayüz
+Rapor sayfası sayesinde sınıftaki öğrencilerin başarı sırası ve gaçen kalanların yüzdesi gösterilmektedir.
 
 Öğrenci girişi sonrası, kendi notlarını görme
+
+Kullanıcı dostu arayüz
+
+
 
 
 
