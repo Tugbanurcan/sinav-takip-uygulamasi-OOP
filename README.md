@@ -2,14 +2,14 @@ Not:(3 hafta önce githuba yüklediğim depo da attığım ödevle aynısı,kont
 
 
 OOP mantığı ile yapılmış olan "Not Hesaplama ve Sınıf Raporlama Uygulaması" dır.
-
+----------------------------------------------------------------------------------
 🛠️ Kullanılan Teknolojiler C# (.NET Framework)
 
 Windows Forms
 
 SQL Server
 
-
+----------------------------------------------------------------------------------
 
 
 📁 Proje Özellikleri Öğretmen ve öğrenci kayıt işlemleri
