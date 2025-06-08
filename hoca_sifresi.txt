@@ -1,0 +1,17 @@
+öğretmen girişi için:
+
+kullanıcı adı : hoca1
+şifre: 12345
+
+
+--------------------
+
+öğrenci girişi için:
+
+numara:159
+şifre:Ahmet123
+
+
+
+numara:123
+şifre:s159

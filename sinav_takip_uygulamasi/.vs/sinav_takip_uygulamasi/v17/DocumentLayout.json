@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|c:\\users\\tugba\\onedrive\\masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogrencikayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogrencikayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogrencikayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogrencikayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|c:\\users\\tugba\\onedrive\\masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogretmensayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogretmensayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|c:\\users\\tugba\\onedrive\\masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogrencikayitol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogrencikayitol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogretmenadminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogretmenadminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\sinavtakipsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\sinavtakipsinifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\ogrencigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07962E18-B4C3-4077-A109-C01F9711D936}|sinav_takip_uygulamasi\\sinav_takip_uygulamasi.csproj|solutionrelative:sinav_takip_uygulamasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 276,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinavTakipSinifi.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\SinavTakipSinifi.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\SinavTakipSinifi.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\SinavTakipSinifi.cs",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\SinavTakipSinifi.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAmwM8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:29:25.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgretmenAdminPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgretmenAdminPaneli.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgretmenAdminPaneli.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgretmenAdminPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgretmenAdminPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:33:39.134Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciKayitOl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgrenciKayitOl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T20:02:06.94Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciKayitOl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.Designer.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgrenciKayitOl.Designer.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.Designer.cs",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgrenciKayitOl.Designer.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAQwMYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:59:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgretmenSayfasi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgretmenSayfasi.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgretmenSayfasi.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgretmenSayfasi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgretmenSayfasi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:21:20.134Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OgrenciGiris.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:10:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciKayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgrenciKayitOl.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:28:54.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:21:54.212Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\OgrenciGiris.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\OgrenciGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\OgrenciGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:03:35.221Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\Form1.cs",
+              "RelativeDocumentMoniker": "sinav_takip_uygulamasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\tugba\\OneDrive\\Masa\u00FCst\u00FC\\oop_\u00F6devleri\\s\u0131nav_takip_uygulamasi1\\sinav_takip_uygulamasi\\sinav_takip_uygulamasi\\Form1.cs",
+              "RelativeToolTip": "sinav_takip_uygulamasi\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:58:39.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
