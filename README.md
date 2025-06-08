@@ -16,7 +16,7 @@ SQL Server
 
 Öğretmen girişi sonrası, öğrencilere ait notları görme
 
-Öğretmen :Not ekleme, güncelleme, silme,Vize Final oranı ve geçme kalma notunu ayarlama
+Öğretmen :Not ekleme, güncelleme, silme,Vize Final oranı ve geçme notunu ayarlama
 
 Rapor sayfası sayesinde sınıftaki öğrencilerin başarı sırası ve gaçen kalanların yüzdesi gösterilmektedir.
 
