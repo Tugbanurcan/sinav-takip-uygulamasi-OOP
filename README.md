@@ -1,5 +1,3 @@
-Not:(3 hafta önce githuba yüklediğim depo da attığım ödevle aynısı,kontrol ederken içinde eksik bir dosya olduğundan projenin çalışmadığını farkettim. Ve yeni bir depo oluşturdum. Doğru çalışır hali burda.)
-
 
 OOP mantığı ile yapılmış olan "Not Hesaplama ve Sınıf Raporlama Uygulaması" dır.
 ----------------------------------------------------------------------------------
